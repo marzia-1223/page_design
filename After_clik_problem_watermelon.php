@@ -18,6 +18,7 @@
             color: #333;
             line-height: 1.6;
         }
+        
         .container {
             max-width: 1200px;
             margin: 0 auto;
@@ -303,7 +304,8 @@
                 <label for="source-code">Source Code</label>
                 <input type="file" id="source-code" class="form-file" value="No file Chosen">
             </div>
-             <button class="btn-submit">Submit</button>
+             
+            <button class="btn-submit">Submit</button>
             
             <div style="height: 200px;"></div> <!-- Placeholder for additional content -->
         </div>
