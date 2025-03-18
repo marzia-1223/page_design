@@ -25,6 +25,7 @@
             padding: 0 15px;
         }
         
+        
         /* Header & Navigation */
         header {
             background-color: #fff;
